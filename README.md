@@ -3,13 +3,13 @@ Custom segmentation using Python pandas- Each customer is scored on order freque
 
 #Business Problem:
 Not all the Furniture customers are equally valuable.
-By using RFM Logic, this project segments the customer into 3 behavioural groups applied to the Furntiture store dataset.
+By using RFM Logic, this project segments the customer into 3 behavioral groups applied to the Furniture store dataset.
 
 #Key findings:
--Growth potential customers make up 69% of my customer base but average only $450 per transaction at an 8% margin — significant volume, moderate returns.
--High-discount customers (25% of base) look similar in revenue per head ($490) but operate at -25% profit margin — every sale in this group destroys value.
+-Growth potential customers make up 69% of my customer base but average only $450 per transaction at an 8% margin - significant volume, moderate returns.
+-High-discount customers (25% of base) look similar in revenue per head ($490) but operate at -25% profit margin -every sale in this group destroys value.
 -High-valued buyers represent just 6% of customers but spend 3.6× more per transaction ($1,600 vs $450) at nearly double the margin.
--The scatter plot confirms: customers who receive 30%+ discounts never become high-value buyers — the two groups are structurally separate.
+-The scatter plot confirms: customers who receive 30%+ discounts never become high-value buyers - the two groups are structurally separate.
 -The strategic recommendation: stop discounting to acquire volume. Invest instead in converting Growth potential customers toward the $800+ spending threshold
 
 #Tools used:
